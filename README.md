@@ -62,12 +62,8 @@
 <!--[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")][repo]-->
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom)
-![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe Lightroom?logo=camera&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe Premiere Pro?logo=film&logoColor=blue)
-<hr/>
-
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff&style=for-the-badge)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
 ## ⚙️ **BACKEND DEV**
 
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")
