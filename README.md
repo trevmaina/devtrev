@@ -1,5 +1,4 @@
-# devtrev - Trevor Maina
-This is for my brief profile
+# Devtrev - Trevor Maina
 <br/>
 <img src="images/trev.pdf" width="3000" />
 
