@@ -1,5 +1,6 @@
 # devtrev - Trevor Maina
 This is for my brief profile
+<br/>
 <img src="images/trev.pdf" width="3000" />
 
 <br/>
