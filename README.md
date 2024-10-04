@@ -65,6 +65,7 @@
 ![Audacity](https://img.shields.io/badge/Audacity-00C?logo=audacity&logoColor=fff&style=for-the-badge)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff&style=for-the-badge)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
+![Wondershare Filmora](https://img.shields.io/badge/Wondershare%20Filmora-07273D?logo=wondersharefilmora&logoColor=fff&style=for-the-badge)
 ## ⚙️ **BACKEND DEV**
 
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")
