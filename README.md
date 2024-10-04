@@ -1,4 +1,4 @@
-# Devtrev - Trevor Maina
+## Devtrev - Trevor Maina
 <br/>
 <img src="images/trev.pdf" width="3000" />
 
@@ -64,7 +64,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom)
 ![Adobe Premiere](https://img.shields.io/badge/adobe%20premiere)
-
+![Adobe Lightroom](https://img.shields.io/badge/Adobe Lightroom?logo=camera&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Adobe Premiere Pro?logo=film&logoColor=blue)
 <hr/>
 
 ## ⚙️ **BACKEND DEV**
